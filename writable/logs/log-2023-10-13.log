@@ -1,0 +1,15 @@
+CRITICAL - 2023-10-13 17:00:34 --> Cannot redeclare App\Controllers\Login::iniciar()
+in APPPATH\Controllers\Login.php on line 60.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-13 17:00:34 --> Cannot redeclare App\Controllers\Login::iniciar()
+in APPPATH\Controllers\Login.php on line 60.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-13 17:00:34 --> Cannot redeclare App\Controllers\Login::iniciar()
+in APPPATH\Controllers\Login.php on line 60.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-13 17:00:34 --> Cannot redeclare App\Controllers\Login::iniciar()
+in APPPATH\Controllers\Login.php on line 60.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-13 17:00:34 --> Cannot redeclare App\Controllers\Login::iniciar()
+in APPPATH\Controllers\Login.php on line 60.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
