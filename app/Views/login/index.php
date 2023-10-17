@@ -144,13 +144,13 @@
       </ul>
     </div>
     <main class="form-signin w-100 m-auto">
-      <form>
+      <form method="post" action="<?= base_url()."public/inicio-de-usuarios" ?>">
         <img class="mb-4" src="<?= base_url()."public/recursos/img/logo.png" ?>" alt="" width="72" height="57">
         <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
         <div class="form-floating">
           <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com" name="username">
-          <label for="floatingInput">Email address</label>
+          <label for="floatingInput">Ingresar Usuarios</label>
         </div>
         <div class="form-floating">
           <input type="password" name="password" class="form-control" id="floatingPassword" placeholder="Password">

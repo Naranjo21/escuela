@@ -12,7 +12,7 @@ class Users extends Model{
 
     public function obtenerUsuario($username)
     {
-        $query= $this->select('*')->where('username',$username)->get();
+        $query = $this->select('*')->where('username', $username)->get();
         return $query->getRowArray();
     }
 }
